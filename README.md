@@ -1,1 +1,2 @@
-# TP_init_git
+Ceci est une modification de ligne
+Ceci est un ajout de ligne
